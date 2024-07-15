@@ -23,4 +23,4 @@ struct Rectangle {
     }
 };
 
-#endif // RECTANGLE_H
+#endif 

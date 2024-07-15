@@ -1,3 +1,0 @@
-C:/Users/Patty/Desktop/2024-1/Proyecto_algoritmos/proyecto_enC/cmake-build-debug/CMakeFiles/proyecto_enC.dir
-C:/Users/Patty/Desktop/2024-1/Proyecto_algoritmos/proyecto_enC/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Patty/Desktop/2024-1/Proyecto_algoritmos/proyecto_enC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
